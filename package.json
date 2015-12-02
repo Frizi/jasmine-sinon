@@ -39,6 +39,6 @@
     "grunt-shell": "~0.7.0"
   },
   "dependencies": {
-    "sinon": ">= 1.7.1"
+    "sinon": "sinonjs/sinon"
   }
 }
